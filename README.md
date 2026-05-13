@@ -4,7 +4,7 @@ RNAcon is a computational tool developed for the prediction and classification o
 
 The tool first discriminates coding RNA sequences from non-coding RNA sequences and then classifies non-coding RNAs into different functional classes using structural information. RNAcon uses sequence composition, RNA secondary structure prediction, graph properties, and machine learning models to support large-scale ncRNA analysis.
 
-Web Server: http://crdd.osdd.net/raghava/rnacon/
+Web Server: https://webs.iiitd.edu.in/raghava/rnacon/
 
 
 
