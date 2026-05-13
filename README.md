@@ -15,7 +15,7 @@ Panwar, B., Arora, A., and Raghava, G. P. S. Prediction and classification of nc
 https://doi.org/10.1186/1471-2164-15-127
 
 
-This tool and dataset is also available on Zenodo at https://doi.org/10.5281/zenodo.20083963
+This tool and dataset is also available on Zenodo at https://doi.org/10.5281/zenodo.20155170
 
 
 
